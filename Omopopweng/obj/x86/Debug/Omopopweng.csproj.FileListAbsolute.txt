@@ -1,0 +1,7 @@
+D:\Chris\Development\Omopopweng\Omopopweng\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chris\Development\Omopopweng\Omopopweng\bin\Debug\Omopopweng.exe
+D:\Chris\Development\Omopopweng\Omopopweng\bin\Debug\Omopopweng.pdb
+D:\Chris\Development\Omopopweng\Omopopweng\bin\Debug\AbstractFactory.dll
+D:\Chris\Development\Omopopweng\Omopopweng\bin\Debug\AbstractFactory.pdb
+D:\Chris\Development\Omopopweng\Omopopweng\obj\x86\Debug\Omopopweng.exe
+D:\Chris\Development\Omopopweng\Omopopweng\obj\x86\Debug\Omopopweng.pdb

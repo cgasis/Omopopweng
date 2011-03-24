@@ -2,17 +2,42 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omopopweng", "Omopopweng\Omopopweng.csproj", "{10DE83EE-00FB-44FF-9BAB-10480754F050}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A} = {DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Debug|Mixed Platforms.Build.0 = Debug|x86
 		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Debug|x86.ActiveCfg = Debug|x86
 		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Debug|x86.Build.0 = Debug|x86
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Release|Any CPU.ActiveCfg = Release|x86
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Release|Mixed Platforms.Build.0 = Release|x86
 		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Release|x86.ActiveCfg = Release|x86
 		{10DE83EE-00FB-44FF-9BAB-10480754F050}.Release|x86.Build.0 = Release|x86
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DB45F714-AA17-477E-BF27-B1AD4B1DAA9A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+D:\Chris\Development\Omopopweng\AbstractFactory\bin\Debug\AbstractFactory.dll
+D:\Chris\Development\Omopopweng\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Chris\Development\Omopopweng\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\Chris\Development\Omopopweng\AbstractFactory\obj\Debug\AbstractFactory.dll
+D:\Chris\Development\Omopopweng\AbstractFactory\obj\Debug\AbstractFactory.pdb
